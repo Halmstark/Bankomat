@@ -1,2 +1,2 @@
 # logowanie1
-Drugi, instrukcja warunkowa if
+Drugi projekt, instrukcja warunkowa if
